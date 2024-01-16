@@ -78,11 +78,11 @@ AdSter.INSTANCE.initializeSdk(getApplicationContext(), AdapterStatus -> {
 ### For Kotlin 
 ```kotlin
 AdSter.initializeSdk(getApplicationContext(), object : InitializationListener {
-  override fun onInitializationComplete(adapterStatus: List<adapterstatus>) {
+  override fun onInitializationComplete(adapterStatus: List<Adapterstatus>) {
  
   }
 })
-</adapterstatus>
+</Adapterstatus>
 ```
 
 ## How to Create an Ad
