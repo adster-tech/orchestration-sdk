@@ -70,7 +70,7 @@ Before loading ads, Make sure to initialize the AdSter Ads SDK by calling `AdSte
 
 ### For Java
 ```java
-AdSter.INSTANCE.initializeSdk(getApplicationContext(), AdapterStatus -> {
+AdSter.INSTANCE.initializeSdk(getApplicationContext(), adapterStatus -> {
 // Initialization completes here
 })
 ```
