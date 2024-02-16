@@ -1,6 +1,6 @@
 # Adster SDK Implementation Guide for Android
 
-Detailed guide is also available [here](https://adster-tech.github.io/orchestration-sdk)
+Detailed guide is also available [here](https://docs.adster.tech)
 
 ## Introduction
 This guide provides a comprehensive step-by-step process for integrating the AdSter SDK into your Android application. Ensure you follow each section carefully for successful implementation.
